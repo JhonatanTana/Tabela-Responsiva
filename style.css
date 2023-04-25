@@ -1,0 +1,21 @@
+#py-5 {
+    padding-bottom: 0 !important;
+}
+
+.table-responsive {
+    width: 90%;
+    margin: 50px auto;
+}
+
+.container {
+    position: relative;
+    top: 50px;
+}
+
+tbody, td, tfoot, th, thead, tr {
+    border-color: red !important;
+}
+
+td {
+    text-align: center;
+}
